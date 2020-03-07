@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2020, InfinStor, Inc.
+ * Licensed under the terms of the Apache License Version 2.0, January 2004
+ * See the file LICENSE-2.0.txt at the top of this repository
+ */
 package com.infinstor.bitcoin.zeromqlistener;
 
 import java.util.Formatter;
