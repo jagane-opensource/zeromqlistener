@@ -85,7 +85,7 @@ public class Listener {
       return false;
     String objectName = hash.toString();
 
-    SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd/kk");
+    SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd/HH");
     Date date = new Date();
 
     String key = "rawtransactions/" + formatter.format(date) + "/" + objectName;
